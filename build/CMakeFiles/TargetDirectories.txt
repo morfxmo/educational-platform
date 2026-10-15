@@ -1,0 +1,3 @@
+/home/vinroz/Projects/educational-platform/build/CMakeFiles/educational-platform.dir
+/home/vinroz/Projects/educational-platform/build/CMakeFiles/edit_cache.dir
+/home/vinroz/Projects/educational-platform/build/CMakeFiles/rebuild_cache.dir
