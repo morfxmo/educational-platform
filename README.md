@@ -30,7 +30,7 @@ the credentials validation process speed
 
 ##  Build & Run
 
-Clone the repository:
 ```bash
 git clone https://github.com/morfxmo/educational-platform.git
-cd educational-platform
+cd educational-platform/build
+./educational-platform
