@@ -1,11 +1,11 @@
-# Educational Platform V1.0
+# Educational Platform
 
 A simple C++–based educational platform to manage courses, students and assignments.
 
 ---
 
 ##  Overview
-Educational Platform V1.0 is designed to simplify the management of courses,
+Educational Platform is designed to simplify the management of courses,
 students and assignments.  
 It can be used as a starting point for building a more complete learning
 management system.
