@@ -32,5 +32,5 @@ the credentials validation process speed
 
 ```bash
 git clone https://github.com/morfxmo/educational-platform.git
-cd educational-platform/build
+cd educational-platform
 ./educational-platform
