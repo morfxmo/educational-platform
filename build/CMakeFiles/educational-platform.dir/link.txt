@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/educational-platform.dir/link.d "CMakeFiles/educational-platform.dir/src/main.cpp.o" "CMakeFiles/educational-platform.dir/src/System.cpp.o" "CMakeFiles/educational-platform.dir/src/Student.cpp.o" "CMakeFiles/educational-platform.dir/src/Doctor.cpp.o" -o educational-platform
