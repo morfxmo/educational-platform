@@ -32,5 +32,5 @@ the credentials validation process speed
 
 Clone the repository:
 ```bash
-git clone https://github.com/X-KIRA-X1/Educational_Platform_V1.0.git
-cd Educational_Platform_V1.0
+git clone https://github.com/morfxmo/educational-platform.git
+cd educational-platform
